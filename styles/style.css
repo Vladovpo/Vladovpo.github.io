@@ -1,0 +1,29 @@
+html {
+    font-size: 15px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+    font-family: "Playwrite PL", cursive;
+    font-optical-sizing: auto;
+    /*font-weight: <weight>;
+    font-style: normal;*/
+  }
+html {
+    background-color:antiquewhite;
+}
+body {
+    width: 60%;
+    margin: 0 auto;
+    background-color: #f7e0c0;
+    padding: 0 20px 20px 20px;
+    border: 5px solid #f4d4aa;
+  }
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: black;
+    text-shadow: 2px 2px 4px gray;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+  
+  
